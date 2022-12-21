@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francesco Longo
 =======================================================================================================================================
 
-\- Junior full-stack developer
+\ Junior full-stack developer
 ------------------------------
 
 I come from a background of stale jobs and I choose to drop everything to embark on a non-stop learning journey starting @SchoolOfCode.
