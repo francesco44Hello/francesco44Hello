@@ -9,7 +9,7 @@ Hands-on project experience building both the front-end and back-end of web apps
 
 * 🌍  I'm based in Liverpool
 * ✉️  You can contact me at [francescolongo44@gmail.com](mailto:francescolongo44@gmail.com)
-* 🚀  I'm currently working on my [Porfolio](https://next-app-d2gb.vercel.app/home/home)
+* 🚀  I'm currently working on my [Porfolio](https://francesco-longo.vercel.app/)
 * 🧠  I'm learning @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
 * 🤝  I'm open to collaborating on Pretty much everything!
 * ⚡  I initially tried to self teach myself Python for a while but I felt I needed a clear route to follow and that's why I joined School of Code. Now I feel very much confident I could learn any other languages or tools I might be interested in thanks to the method of learning I acquired in these months.
