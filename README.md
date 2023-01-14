@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ex-Barista transitioned into a Software Development role after completing School of Code Bootcamp.
 Hands-on project experience building both the front-end and back-end of web apps using React JS, ExpressJS and other frameworks.
 
-* 🌍  I'm based in Liverpool
+* 🌍  I'm based in Liverpool but willing to relocate anywhere! 
 * ✉️  You can contact me at [francescolongo44@gmail.com](mailto:francescolongo44@gmail.com)
 * 🚀  I'm currently working on my [Porfolio](https://francesco-longo.vercel.app/)
 * 🧠  I'm learning @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
