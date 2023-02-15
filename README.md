@@ -8,8 +8,8 @@ As a career changer with a passion for software development, I bring a diverse s
 * 🌍  I'm based in Liverpool but willing to relocate anywhere! 
 * ✉️  You can contact me at [francescolongo44@gmail.com](mailto:francescolongo44@gmail.com)
 * 🚀  I'm currently working on my [Porfolio](https://francesco-longo.vercel.app/)
-* 🧠  I'm learning @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
-* 🤝  I'm open to collaborating on Pretty much everything!
+* 🧠  Graduated @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
+* 🤝  I'm open to collaborating on pretty much everything!
 * ⚡  I've always been interested in learning how to code, so I decided to try teaching myself with Python and Flutter. However, I quickly realized that I needed some guidance to fully grasp the concepts and techniques. That's why I decided to apply to the School of Code bootcamp. I believe that having a structured curriculum and experienced instructors will not only help me understand the fundamentals of programming, but also provide me with the support and resources I need to become a proficient developer.
 ### Skills
 
