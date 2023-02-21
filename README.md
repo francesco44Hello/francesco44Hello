@@ -11,6 +11,24 @@ As a career changer with a passion for software development, I bring a diverse s
 * 🧠  Graduated @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
 * 🤝  I'm open to collaborating on pretty much everything!
 * ⚡  I've always been interested in learning how to code, so I decided to try teaching myself with Python and Flutter. However, I quickly realized that I needed some guidance to fully grasp the concepts and techniques. That's why I decided to apply to the School of Code bootcamp. I believe that having a structured curriculum and experienced instructors will not only help me understand the fundamentals of programming, but also provide me with the support and resources I need to become a proficient developer.
+
+### Projects
+<p>
+See the README.md of each project for more details about the specifics of the projects.
+</p>
+
+<div>
+
+|               Project |                                                            |                                                          | Key Tech                 |
+| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+| PetBrB | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-refactor) | [Demo](https://petbrb.vercel.app/) | NextJs, React, CSS, Figma, PostgreSQL, Cypress, Api    |
+|          Weather App | [Github](https://github.com/francesco44Hello/Weather_project_TypeScript)        | [Demo](https://francesco-weather.vercel.app/)         | React, TypeScript    |
+|          SnapVote | [Github](https://github.com/francesco44Hello/snap_vote)        | [Demo](https://snap-vote.netlify.app/)         | React, CSS     |
+
+
+
+</div>
+
 ### Skills
 
 <p align="left">
