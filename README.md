@@ -22,7 +22,7 @@ See the README.md of each project for more details about the specifics of the pr
 |               Project |                                                            |                                                          | Key Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | PetBrB | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-refactor) | [Demo](https://petbrb.vercel.app/) | NextJs, React, CSS, Figma, PostgreSQL, Cypress, Api    |
-|          Weather App | [Github](https://github.com/francesco44Hello/Weather_project_TypeScript)        | [Demo](https://francesco-weather.vercel.app/)         | React, TypeScript    |
+|          Movies App | [Github](https://github.com/francesco44Hello/dario-atobit-movie)        | [Demo](https://atomovies.vercel.app/)         | React, TypeScript    |
 |          SnapVote | [Github](https://github.com/francesco44Hello/snap_vote)        | [Demo](https://snap-vote.netlify.app/)         | React, CSS     |
 
 
