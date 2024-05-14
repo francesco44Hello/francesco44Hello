@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 \ Software developer
 ------------------------------
 
-Hey there! Over the past 7 months, I've been diving deep into the exciting world of startups, working on a variety of projects that involved turning raw data from Firebase into user-friendly interfaces. Using Next.js and React, I've had a blast crafting dynamic web applications. Working with Firebase has been a real adventure, learning how to tame its data structures and make them work seamlessly in our apps. I thrive in the fast-paced vibe, where every day brings new challenges and opportunities to grow. Can't wait to see what's next on this amazing journey of software development!
+As mentioned above, over the past 7 months, I've been diving deep into the exciting world of startups, working on a variety of projects that involved turning raw data from Firebase into user-friendly interfaces. But let me backtrack a bit – my coding journey started with Python and Flutter, as I explored programming on my own. However, craving structured learning, I enrolled in the School of Code bootcamp. Excited to continue this journey and explore new possibilities in software development!
 
 * 🌍  I'm based in Liverpool but willing to relocate anywhere! 
 * ✉️  You can contact me at [francescolongo44@gmail.com](mailto:francescolongo44@gmail.com)
