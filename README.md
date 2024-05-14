@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francesco Longo
 =======================================================================================================================================
 
-\ Junior full-stack developer
+\ Software developer
 ------------------------------
-As a career changer with a passion for software development, I bring a diverse skill set from previous roles in hospitality and warehouses. I am eager to apply my adaptability, problem-solving abilities, and attention to detail to a dynamic and innovative industry, and am committed to continued learning and growth as a developer.
+
+Hey there! Over the past 7 months, I've been diving deep into the exciting world of startups, working on a variety of projects that involved turning raw data from Firebase into user-friendly interfaces. Using Next.js and React, I've had a blast crafting dynamic web applications. Working with Firebase has been a real adventure, learning how to tame its data structures and make them work seamlessly in our apps. I thrive in the fast-paced vibe, where every day brings new challenges and opportunities to grow. Can't wait to see what's next on this amazing journey of software development!
 
 * 🌍  I'm based in Liverpool but willing to relocate anywhere! 
 * ✉️  You can contact me at [francescolongo44@gmail.com](mailto:francescolongo44@gmail.com)
 * 🚀  I'm currently working on my [Porfolio](https://francesco-longo.vercel.app/)
 * 🧠  Graduated @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
 * 🤝  I'm open to collaborating on pretty much everything!
-* ⚡  I've always been interested in learning how to code, so I decided to try teaching myself with Python and Flutter. However, I quickly realized that I needed some guidance to fully grasp the concepts and techniques. That's why I decided to apply to the School of Code bootcamp. I believe that having a structured curriculum and experienced instructors will not only help me understand the fundamentals of programming, but also provide me with the support and resources I need to become a proficient developer.
+* ⚡  Hey there! Over the past 7 months, I've been deeply involved in startup projects, working extensively with Next.js, React, and Firebase. It's been an amazing experience crafting dynamic web applications and turning raw data into user-friendly interfaces. But let me backtrack a bit – my coding journey started with Python and Flutter, as I explored programming on my own. However, craving structured learning, I enrolled in the School of Code bootcamp. With their expert guidance, I'm mastering programming fundamentals while gaining invaluable support and resources. Excited to continue this journey and explore new possibilities in software development!
 
 ### Projects
 <p>
