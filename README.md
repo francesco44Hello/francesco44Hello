@@ -11,9 +11,7 @@ Hey there! Over the last year, I've been deeply involved in startup projects, wo
 * 🚀  I'm currently working on my [Porfolio](https://francesco-longo.vercel.app/)
 * 🧠  Graduated @SchoolOfCode Js, Ts, Html, CSS, React, Node.js
 * 🤝  I'm open to collaborating on pretty much everything!
-* ⚡  
-
-As mentioned above, over the last year, I've been diving deep into the exciting world of startups, working on a variety of projects that involved turning raw data from Firebase into user-friendly interfaces. But let me backtrack a bit – my coding journey started with Python and Flutter, as I explored programming on my own. However, craving structured learning, I enrolled in the School of Code bootcamp. Excited to continue this journey and explore new possibilities in software development!
+* ⚡  As mentioned above, over the last year, I've been diving deep into the exciting world of startups, working on a variety of projects that involved turning raw data from Firebase into user-friendly interfaces. But let me backtrack a bit – my coding journey started with Python and Flutter, as I explored programming on my own. However, craving structured learning, I enrolled in the School of Code bootcamp. Excited to continue this journey and explore new possibilities in software development!
 ### Projects
 <p>
 See the README.md of each project for more details about the specifics of the projects.
